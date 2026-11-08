@@ -1,0 +1,2 @@
+[widget.clock]
+format = "{:%I:%M%p}"
